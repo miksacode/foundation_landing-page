@@ -110,7 +110,7 @@ button {
 .profilecontainer {
     display: flex;
     flex-direction: column;
-    width: 180px;
+    width: 190px;
 }
 
 .profilecontainer img {
